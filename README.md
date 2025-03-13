@@ -1,5 +1,5 @@
 ##  Weather App
-An application that shows weather information based on chosen city.
+An application that shows weather information based on chosen city using online api .
 
 
 ### Key Features:
